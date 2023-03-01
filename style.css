@@ -1,17 +1,17 @@
 @font-face {
     font-family: e-Ukraine-Light, sans-serif;
     src: url(https://github.com/pavlostarovoit/test/raw/main/Fonts/e-Ukraine-Light.woff) format('woff'), /* Modern Browsers */
-    url(https://github.com/pavlostarovoit/test/raw/main/Fonts/e-Ukraine-Light.ttf) format('truetype'), /* Safari, Android, iOS */
-    url(https://github.com/pavlostarovoit/test/raw/main/Fonts/e-Ukraine-Light.svg#svgFontName) format('svg'), /* Legacy iOS */
-    url(https://github.com/pavlostarovoit/test/raw/main/Fonts/e-Ukraine-Light.eot); /* IE9 Compat Modes */
+   /* url(https://github.com/pavlostarovoit/test/raw/main/Fonts/e-Ukraine-Light.ttf) format('truetype'), /* Safari, Android, iOS */
+   /* url(https://github.com/pavlostarovoit/test/raw/main/Fonts/e-Ukraine-Light.svg#svgFontName) format('svg'), /* Legacy iOS */
+    /*url(https://github.com/pavlostarovoit/test/raw/main/Fonts/e-Ukraine-Light.eot); /* IE9 Compat Modes */
 }
 
 @font-face {
     font-family: e-Ukraine-Regular, sans-serif;
     src: url(https://github.com/pavlostarovoit/test/raw/main/Fonts/e-Ukraine-Regular.woff) format('woff'), /* Modern Browsers */
-url(https://github.com/pavlostarovoit/test/raw/main/Fonts/e-Ukraine-Regular.ttf) format('truetype'), /* Safari, Android, iOS */
-url(https://github.com/pavlostarovoit/test/raw/main/Fonts/e-Ukraine-Regular.svg#svgFontName) format('svg'), /* Legacy iOS */
-url(https://github.com/pavlostarovoit/test/raw/main/Fonts/e-Ukraine-Regular.eot); /* IE9 Compat Modes */
+/*url(https://github.com/pavlostarovoit/test/raw/main/Fonts/e-Ukraine-Regular.ttf) format('truetype'), /* Safari, Android, iOS */
+/*url(https://github.com/pavlostarovoit/test/raw/main/Fonts/e-Ukraine-Regular.svg#svgFontName) format('svg'), /* Legacy iOS */
+/*url(https://github.com/pavlostarovoit/test/raw/main/Fonts/e-Ukraine-Regular.eot); /* IE9 Compat Modes */
 }
 
 body, html {
